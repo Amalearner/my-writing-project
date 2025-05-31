@@ -60,6 +60,13 @@ Here’s what I do best:
 
 ---
 
+## Newsletter Portfolio
+
+Curious about my newsletter writing style and experience?  
+You can explore my portfolio here: [Newsletter Portfolio](https://www.notion.so/Portfolio-1693699995c880299563da153cc1a86a)
+
+---
+
 ### How to Reach Me
 
 - Email: [udohosarumwensecynthia@gmail.com](mailto:udohosarumwensecynthia@gmail.com)  
