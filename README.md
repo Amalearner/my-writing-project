@@ -2,6 +2,6 @@ My name is Cynthia Udoh. I’ve been working in tech for a while now, mostly hel
 
 I joined this bootcamp because I want to learn how to explain technical topics in a way that’s clear, simple, and helpful, not just for people in tech, but also for those who are new and trying to understand things. I want to learn how professional technical writers do their job, what tools they use, how they structure documentation, and how they think when they’re writing for users.
 
-I also want to learn how to contribute better to open source documentation and other open source projects. I’ve always loved the idea of giving back and being part of communities that build useful things together, but I want to show up more confidently and actually know how to contribute in a meaningful way.
+I also want to learn how to contribute better to open source documentation and other open source projects. I’ve always loved the idea of giving back and being part of communities that build useful things together but I want to show up more confidently and actually know how to contribute in a meaningful way.
 
 Most of all, I just want to get better at something I already enjoy. I want to write things that actually help someone do something. Things that make sense. Things that don’t confuse people. And if I can eventually pass that knowledge on to others, that would be even better.
